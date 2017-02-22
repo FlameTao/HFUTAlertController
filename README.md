@@ -6,10 +6,10 @@ HFUTAlertController是一个基于转场动画，封装了一些类似于UIAlert
 
 ### 展示
 
-<img src="http://www.flametao.cn/2017/02/21/HFUTAlertController/default_double.gif" style="zoom:50%" />
-<img src="http://www.flametao.cn/2017/02/21/HFUTAlertController/success_single.gif" style="zoom:50%" />
-<img src="http://www.flametao.cn/2017/02/21/HFUTAlertController/failure_single.gif" style="zoom:50%" />
-<img src="http://www.flametao.cn/2017/02/21/HFUTAlertController/info_single.gif" style="zoom:50%" />
+<img src="https://github.com/FlameTao/MarkdownRes/blob/master/default_double.gif" style="zoom:50%" />
+<img src="https://github.com/FlameTao/MarkdownRes/blob/master/success_single.gif" style="zoom:50%" />
+<img src="https://github.com/FlameTao/MarkdownRes/blob/master/failure_single.gif" style="zoom:50%" />
+<img src="https://github.com/FlameTao/MarkdownRes/blob/master/info_single.gif" style="zoom:50%" />
 
 ### 使用的三方库
 
